@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kingsarab099.aternos.me:57780",
+    "ip": "kingsarab099.aternos.me",
     "port": 57780,
     "version": "",
     "try-creative": false
